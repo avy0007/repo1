@@ -1,1 +1,6 @@
-file4 on local
+<<<<<<< HEAD
+file4 on local thnaks 
+
+=======
+new file to remote
+>>>>>>> 98f7105a2396ce7f6efdd3ff770c252cb1d78974
